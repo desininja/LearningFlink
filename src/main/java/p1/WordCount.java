@@ -13,18 +13,26 @@ import org.apache.flink.streaming.api.datastream.DataStream;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.api.functions.sink.filesystem.rollingpolicies.OnCheckpointRollingPolicy;
 import org.apache.flink.util.Collector;
+import org.apache.flink.util.ParameterTool;
+
 
 import java.io.OutputStream;
 
 public class WordCount {
 
     public static void main(String[] args) throws Exception {
+
+        // Parse arguments using ParameterTool
+        final ParameterTool params = ParameterTool.fromArgs(args);
+        // --- Hard-coded file paths ---
+        final String inputPath = params.get("input","");                      //"/Users/himanshu/Desktop/LearningFlinkUdemy/inputFile.txt";
+        final String outputPath = params.get("output","");                   //"/Users/himanshu/Desktop/LearningFlinkUdemy/output";
+
+
         // 1. Set up the environment
         final StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 
-        // --- Hard-coded file paths ---
-        final String inputPath = "/Users/himanshu/Desktop/LearningFlinkUdemy/inputFile.txt";
-        final String outputPath = "/Users/himanshu/Desktop/LearningFlinkUdemy/output";
+
         // -----------------------------
 
         // Set execution mode to BATCH

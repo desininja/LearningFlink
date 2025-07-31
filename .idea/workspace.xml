@@ -10,11 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44bb79d7-050d-4106-aebc-3483198c411f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Flink Ecosystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flink Ecosystem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputFiles/location.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputFiles/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/FullOuterJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/InnerJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/LeftOuterJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/RightOuterJoin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inputFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inputFiles/inputFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/p1/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p1/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/wc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/wc/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,9 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="30WAYfhEbFXVjcHHIwsJxOAXLgG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,11 +60,22 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/himanshu/Desktop/LearningFlinkUdemy/inputFiles",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inputFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/inputFiles" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
@@ -100,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
