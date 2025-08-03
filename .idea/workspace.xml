@@ -10,11 +10,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44bb79d7-050d-4106-aebc-3483198c411f" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/even_numbers/2025-08-01--02/.part-1ac6f8c9-fbe8-443b-8efb-a661b3a28efb-0.inprogress.d43bb0cc-3b6f-4823-8a96-9ad133e4f32b" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odd_numbers/2025-08-01--02/.part-10ef1807-508e-402c-8b48-cc0b0badf11f-0.inprogress.aff46057-fb81-4916-a902-65748d06fb7c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/p1/OddEven.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/p1/WordCountStreaming.java" afterDir="false" />
+||||||| parent of ccd7e55 (Finished Flink UDemy course)
+      <change afterPath="$PROJECT_DIR$/Flink Ecosystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flink Ecosystem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputFiles/location.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputFiles/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/FullOuterJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/InnerJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/LeftOuterJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/RightOuterJoin.java" afterDir="false" />
+=======
+>>>>>>> ccd7e55 (Finished Flink UDemy course)
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+||||||| parent of ccd7e55 (Finished Flink UDemy course)
+      <change beforePath="$PROJECT_DIR$/inputFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/inputFiles/inputFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/p1/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p1/WordCount.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+>>>>>>> ccd7e55 (Finished Flink UDemy course)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +68,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
@@ -59,13 +80,39 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+||||||| parent of ccd7e55 (Finished Flink UDemy course)
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/himanshu/Desktop/LearningFlinkUdemy/inputFiles",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.intentionPowerPack"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/himanshu/Desktop/LearningFlinkUdemy/inputFiles&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.intentionPowerPack&quot;
+>>>>>>> ccd7e55 (Finished Flink UDemy course)
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inputFiles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Udemy Course Material" />
+      <recent name="$PROJECT_DIR$/src/main/java/p1" />
       <recent name="$PROJECT_DIR$/inputFiles" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -73,8 +120,9 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
-      <command value="mvn clean" />
       <command value="mvn install -e" />
+      <command value="mvn clean" />
+      <command value="mvn clean package" />
     </option>
   </component>
   <component name="RunManager">
